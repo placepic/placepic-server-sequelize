@@ -1,0 +1,1 @@
+# placepic-server-sequelize
